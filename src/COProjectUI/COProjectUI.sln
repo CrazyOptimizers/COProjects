@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COProjectUI", "COProjectUI\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COProjectDll", "..\COProjectDll\COProjectDll.csproj", "{4D568E93-E105-4DA9-9F3F-24A99D385B99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "..\ConsoleApplication1\ConsoleApplication1.csproj", "{E21CF7E8-DCCE-4FB0-9183-EC33CF258BB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D568E93-E105-4DA9-9F3F-24A99D385B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D568E93-E105-4DA9-9F3F-24A99D385B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D568E93-E105-4DA9-9F3F-24A99D385B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21CF7E8-DCCE-4FB0-9183-EC33CF258BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21CF7E8-DCCE-4FB0-9183-EC33CF258BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21CF7E8-DCCE-4FB0-9183-EC33CF258BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21CF7E8-DCCE-4FB0-9183-EC33CF258BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
